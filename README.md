@@ -1,7 +1,3 @@
-## 👋Привет, меня зовут Алексей 
-[![Gmail Badge](https://img.shields.io/badge/-nekkyy92@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nekkyy92@gmail.com)](mailto:nekkyy92@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-Nneekkyy-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Nneekkyy/)](https://www.github.com/Nneekkyy/) <p align='left'>Начинающий фронтенд разработчик.</p>
-
 ## Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Nneekkyy alt=Nneekkyy /> </p>
 
